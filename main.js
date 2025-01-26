@@ -115,7 +115,7 @@ const newAgent = (proxy = null) => {
 
 // LayerEdge Connection Class
 class LayerEdgeConnection {
-    constructor(proxy = null, privateKey = null, refCode = "knYyWnsE") {
+    constructor(proxy = null, privateKey = null, refCode = "A1YWNyu7") {
         this.refCode = refCode;
         this.proxy = proxy;
 
